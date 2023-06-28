@@ -2,6 +2,9 @@
 .cabeçalho { background-color: rgb(106, 91, 205);color: black;display: flex;justify-content: space-around;padding: 24px 0;}
 .cabeçalho-imagem { width: 20%;}
 .cabeçalho-item-lista{ display: inline-block; margin: 0 16px; padding: 24px 0; font-size: 24px;}
-.escola { background-image: linear-gradient(rgb(106, 91, 205), #1a4cf0);display: flex;}
-.escola-conteúdo{ width: 70%;}
-.imagem-escola{ width: 35%;}
+.escola { background-image: linear-gradient(rgb(106, 91, 205), #1a4cf0);display: flex; justify-content: center; align-items: center; padding: 24px 0;}
+.escola-conteúdo{ width: 40%;}
+.escola-titulo { padding: 24px 0;}
+.escola-imagem{ width: 350px}
+.estudante-um {width: 35%;}
+.facebook {width: 50%;}
